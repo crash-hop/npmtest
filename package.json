@@ -1,0 +1,20 @@
+{
+  "author": "Stanislav Pěrka",
+  "name": "npmtest",
+  "description": "",
+  "license": "MIT",
+  "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/crash-hop/npmtest"
+  },
+  "main": "./index.js",
+  "keywords": [
+  ],
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "dependencies": {
+  },
+  "devDependencies": {}
+}
